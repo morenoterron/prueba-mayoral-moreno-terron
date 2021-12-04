@@ -8,11 +8,7 @@
     display: grid;
     grid-template-columns: 1fr;
 }
-input[type=search], input[type=search].search:focus-visible,input[type=search].search{
-        /* Remove First */
-        -webkit-appearance: none;
-        -moz-appearance: none;
-        appearance: none;
+input.search{
     border: 0; 
     outline: none;
     width: 100%;
