@@ -11,6 +11,8 @@
 input, input.search:focus-visible,input.search{
     border: 0; 
     outline: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
     width: 100%;
 }
 
