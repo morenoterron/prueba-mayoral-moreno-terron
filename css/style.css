@@ -94,7 +94,7 @@ button:hover{background-color: #015ba5;}
         width: 49.5%;
     }
 }
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 552px) {
     .galeria li {
         width: 100%;
     }
